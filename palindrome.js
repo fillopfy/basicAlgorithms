@@ -18,4 +18,4 @@ function palindrome(str){
 }
 
 //In short:
-// return str.replace(re,"").toLowerCase()====str.replace(re,"").toLowerCase().split("").reverse("").join//	  ("")?true:false;
+// return str.replace(re,"").toLowerCase()====str.replace(re,"").toLowerCase().split("").reverse("").join("")?true:false;
